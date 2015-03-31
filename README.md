@@ -8,3 +8,4 @@ List of C libraries to power your project
 * [libSSH2](http://www.libssh2.org/) SSH2 client library `-lssh2`
 * [zlib](http://www.zlib.net/) Compression and archive library `-lz`
 * [libcURL](http://curl.haxx.se/libcurl/) Multiprotocol file transfer library `-lcurl`
+* [readline](http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html) Simple commandline interface library `-lreadline`
