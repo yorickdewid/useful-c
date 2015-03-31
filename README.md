@@ -1,5 +1,5 @@
 # Useful C libs
-List of C libraries to power your project
+List of C libraries to power your project. To add libraries to the list either create a issue of submit a pull request.
 * [glibc](http://www.gnu.org/software/libc/) GNU C Library `-lc`
 * [libm](https://sourceware.org/glibc/wiki/libm) GNU Mathematics Library `-m`
 * [GSL](http://www.gnu.org/software/gsl/) GNU Scientific Library `-lgsl`
