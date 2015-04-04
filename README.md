@@ -14,3 +14,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libgit2](https://libgit2.github.com/) Git core library `-lgit2`
 * [libsodium](https://github.com/jedisct1/libsodium) Crypto library `-lsodium`
 * [Haru](https://github.com/libharu/libharu) Cross platform PDF library `lhpdf`
+* [json.c](https://github.com/douglascrockford/JSON-js) minimalist JSON parser 
