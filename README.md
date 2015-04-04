@@ -18,3 +18,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libqrencode](https://github.com/fukuchi/libqrencode) QR code library `-lqrencode`
 * [BerkeleyDB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) Berkeley database engine `-lbdb`
 * [libxml2](http://xmlsoft.org/) XML library `-lxml2`
+* [libpng](http://www.libpng.org/pub/png/libpng.html) Official PNG reference library `-lpng`
