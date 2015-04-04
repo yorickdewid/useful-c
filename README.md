@@ -19,4 +19,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [BerkeleyDB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) Berkeley database engine `-lbdb`
 * [libxml2](http://xmlsoft.org/) XML library `-lxml2`
 * [libpng](http://www.libpng.org/pub/png/libpng.html) Official PNG reference library `-lpng`
-* [libjpef](http://libjpeg.sourceforge.net/) Widely used C library for reading and writing JPEG image `-ljpeg`
+* [libjpeg](http://libjpeg.sourceforge.net/) Widely used C library for reading and writing JPEG image `-ljpeg`
