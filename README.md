@@ -20,3 +20,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libxml2](http://xmlsoft.org/) XML library `-lxml2`
 * [libpng](http://www.libpng.org/pub/png/libpng.html) Official PNG reference library `-lpng`
 * [libjpeg](http://libjpeg.sourceforge.net/) Widely used C library for reading and writing JPEG image `-ljpeg`
+* [libxo](https://github.com/Juniper/libxo) Generate text, XML, JSON, and HTML output `-lxo`
