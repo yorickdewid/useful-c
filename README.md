@@ -21,3 +21,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libpng](http://www.libpng.org/pub/png/libpng.html) Official PNG reference library `-lpng`
 * [libjpeg](http://libjpeg.sourceforge.net/) Widely used C library for reading and writing JPEG image `-ljpeg`
 * [libxo](https://github.com/Juniper/libxo) Generate text, XML, JSON, and HTML output `-lxo`
+* [libffi](https://github.com/atgreen/libffi) Foreign-function interface to call library functions at runtime `-lffi`
