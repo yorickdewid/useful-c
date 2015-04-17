@@ -22,3 +22,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libjpeg](http://libjpeg.sourceforge.net/) Widely used C library for reading and writing JPEG image `-ljpeg`
 * [libxo](https://github.com/Juniper/libxo) Generate text, XML, JSON, and HTML output `-lxo`
 * [libffi](https://github.com/atgreen/libffi) Foreign-function interface to call library functions at runtime `-lffi`
+* [libCello](https://github.com/orangeduck/libCello) Higher level programming in C `-lCello`
