@@ -23,3 +23,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libxo](https://github.com/Juniper/libxo) Generate text, XML, JSON, and HTML output `-lxo`
 * [libffi](https://github.com/atgreen/libffi) Foreign-function interface to call library functions at runtime `-lffi`
 * [libCello](https://github.com/orangeduck/libCello) Higher level programming in C `-lCello`
+* [libwebsockets](https://github.com/warmcat/libwebsockets) Lightweight websocket clients and servers `-lwebsockets`
