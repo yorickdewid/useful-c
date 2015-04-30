@@ -24,3 +24,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libffi](https://github.com/atgreen/libffi) Foreign-function interface to call library functions at runtime `-lffi`
 * [libCello](https://github.com/orangeduck/libCello) Higher level programming in C `-lCello`
 * [libwebsockets](https://github.com/warmcat/libwebsockets) Lightweight websocket clients and servers `-lwebsockets`
+* [libinjection](https://github.com/client9/libinjection) SQL injection library `-llibinjection`
