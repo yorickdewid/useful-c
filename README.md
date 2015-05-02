@@ -26,3 +26,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libwebsockets](https://github.com/warmcat/libwebsockets) Lightweight websocket clients and servers `-lwebsockets`
 * [libinjection](https://github.com/client9/libinjection) SQL injection library `-linjection`
 * [libwebsockets](https://github.com/warmcat/libwebsockets) C websocket library `-lwebsockets`
+* [libpuzzle](https://github.com/jedisct1/libpuzzle) The Puzzle library is designed to quickly find visually similar images `-lpuzzle`
