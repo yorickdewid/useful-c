@@ -29,3 +29,4 @@ List of C libraries to power your project. To add libraries to the list either c
 * [libpuzzle](https://github.com/jedisct1/libpuzzle) The Puzzle library is designed to quickly find visually similar images `-lpuzzle`
 * [libbson](https://github.com/mongodb/libbson) Useful routines related to building, parsing, and iterating BSON documents `-lbson`
 * [libtorrent](https://github.com/rakshasa/libtorrent) Bittorrent client library `-ltorrent`
+* [libzmq](https://github.com/zeromq/libzmq) Client interface to ZeroMQ message queue protocol `lzmq`
